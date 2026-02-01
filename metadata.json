@@ -1,0 +1,7 @@
+{
+  "name": "TỪ NGỮ TẠNG VIỆT vision 1.0",
+  "description": "Ứng dụng dịch thuật và tra cứu ngôn ngữ Tạng - Việt chuyên nghiệp đầu tiên tại Việt Nam, tích hợp trí tuệ nhân tạo Gemini để hỗ trợ dịch thuật chính xác và phân tích ngữ pháp chuyên sâu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
